@@ -18,6 +18,12 @@ There are millions of Amazon sellers around the world. Amazon sales data Analysi
 Total Sales, Sales Quantity, Total Profit, Sales, Last Year Sales and other metrics. By  analyzing these different metrics, we will be able to increase and improve our performance.  It can also help us to better understand the market trends and customers’ buying behaviors
 and help us to know what the customers really want.
 
+# Objective:
+The objective of the project is to Analyse Amazon Sales data to get a substantial data
+which will help in bringing changes in a business in the future. It will help to reveals
+flaws in the business model or in the way that one is going about conducting  business. Sellers will be able to clearly see where they’re losing money, what the  problem is, and reduce their losses accordingly. It facilitates coming up with strategic  solutions to problems. This project aims to provide visual understanding of the data  using Microsoft Power Bi
+
+
 # Data Description:
 1)ORDER ID: The ORDER ID is the ID given to the order.
 
